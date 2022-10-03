@@ -1,0 +1,96 @@
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 1.m3d
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 1.m3d.bak
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 2.m3d
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 2.m3d.bak
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 3.m3d
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 3.m3d.bak
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 4.m3d
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 4.m3d.bak
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 5.m3d
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 5.m3d.bak
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 6.m3d
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 6.m3d.bak
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 7.m3d
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 7.m3d.bak
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 8.m3d
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 8.m3d.bak
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 9.m3d
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\Керн 9.m3d.bak
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\керноприемник.a3d
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\kompas\керноприемник.a3d.bak
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\CoreBarrelsApp.exe
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\CoreBarrelsApp.deps.json
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\CoreBarrelsApp.runtimeconfig.json
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\CoreBarrelsApp.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\CoreBarrelsApp.pdb
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Humanizer.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\KAPITypes.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Kompas6API5.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Kompas6Constants.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\Kompas6Constants3D.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\bin\Release\net6.0-windows\KompasAPI7.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\CoreBarrelsApp.csproj.AssemblyReference.cache
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\Theme\DefaultButtonTheme.baml
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\Theme\MenuButtonTheme.baml
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\Theme\TextBoxResultTheme.baml
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\Theme\TextBoxTheme.baml
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\MVVM\View\CalcPoreView.g.cs
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\MVVM\View\CalcView.g.cs
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\MVVM\View\HomeView.g.cs
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\MVVM\View\KompasView.g.cs
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\App.g.cs
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\CoreBarrelsApp_MarkupCompile.cache
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\CoreBarrelsApp_MarkupCompile.lref
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\App.baml
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\MVVM\View\CalcPoreView.baml
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\MVVM\View\CalcView.baml
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\MVVM\View\HomeView.baml
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\MVVM\View\KompasView.baml
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\CoreBarrelsApp.g.resources
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\CoreBarrelsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\CoreBarrelsApp.AssemblyInfoInputs.cache
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\CoreBarrelsApp.AssemblyInfo.cs
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\CoreBarrelsApp.csproj.CoreCompileInputs.cache
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\CoreBarrelsApp.csproj.CopyComplete
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\CoreBarrelsApp.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\refint\CoreBarrelsApp.dll
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\CoreBarrelsApp.pdb
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\CoreBarrelsApp.genruntimeconfig.cache
+C:\Users\alex2\source\repos\CoreBarrelsApp\CoreBarrelsApp\obj\Release\net6.0-windows\ref\CoreBarrelsApp.dll

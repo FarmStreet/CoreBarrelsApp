@@ -1,0 +1,97 @@
+﻿<UserControl x:Class="CoreBarrelsApp.MVVM.View.HomeView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:CoreBarrelsApp.MVVM.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="750" d:DesignWidth="800"
+             >
+    <StackPanel>
+
+        <TextBlock 
+            Text="Описание овершота yugyugyu"
+            Foreground="#6c2d2c"
+            FontSize="28"
+             FontFamily="Travail Extended"
+            HorizontalAlignment="Left"
+            />
+
+        <StackPanel Orientation="Horizontal">
+
+            <StackPanel Width="300">
+                <TextBlock FontFamily="Travail Extended"
+                    Margin="0,20,0,0"
+                    Text="Назначение"
+                    Foreground="#6c2d2c"
+                    FontSize="20" 
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    />
+                <TextBlock FontFamily="Travail Extended"
+                    Text="      Овершоты предназначены для захвата за наружную цилиндрическую поверхность и последующего извлечения элементов трубных колонн при проведении ловильных работ в скважинах различного назначения.&#10;     Овершот является универсальным инструментом и может применяться в условиях, когда невозможно использовать ловитель или колокол.&#10;    Овершот надежно блокируется защелкивающейся головкой. Впоследствии систему внутренней трубы керноприемника, заполненную керном, можно поднять через бурильную колонну с помощью троса."
+                    TextWrapping="Wrap"
+                    Foreground="#6c2d2c"
+                    Margin="0,10,0,0"
+                    FontSize="14"
+                    HorizontalAlignment="Left"
+                    TextAlignment="Justify"
+                    VerticalAlignment="Center"
+                    />
+
+
+                <TextBlock FontFamily="Travail Extended"
+                    Text="Достоинства"
+                    Foreground="#6c2d2c"
+                    FontSize="20"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"                    
+                    Margin="0,20,0,0"
+                    />
+                <TextBlock FontFamily="Travail Extended"
+                    Text="     - обеспечение подъема из скважины оборванных труб; &#10;
+    - повышение надежности захвата и освобождение трубы; &#10;
+    - обеспечение промывку забоя через аварийную колонну; &#10;
+    - передача вращения аварийной колонне; &#10;
+    - обеспечение в случае необходимости освобождения аварийной колонны от захвата."
+                    TextWrapping="Wrap"
+                    Foreground="#6c2d2c"
+                    Margin="0,10,0,0"
+                    FontSize="14"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    />
+
+                <TextBlock FontFamily="Travail Extended"
+                    Text="Конструкция"
+                    
+                    Foreground="#6c2d2c"
+                    FontSize="20"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    Margin="0,20,0,0"
+                    />
+                <TextBlock FontFamily="Travail Extended"
+                    Text="      Овершот состоит из корпуса, переводника, цангового захвата и системы барабанного механизма для освобождения захвата."
+                    TextWrapping="Wrap"
+                    Foreground="#6c2d2c"
+                    Margin="0,10,0,0"
+                    FontSize="14"
+                    HorizontalAlignment="Left"
+                    VerticalAlignment="Center"
+                    TextAlignment="Justify"
+                    />
+            </StackPanel>
+            
+            <StackPanel Margin="75,50,0,0" Height="650" Width="350">
+                <Border Height="610"  Width="280" Background="#42313A" CornerRadius="10">
+                </Border>
+
+
+
+            </StackPanel>
+
+        </StackPanel>
+
+    </StackPanel>
+</UserControl>

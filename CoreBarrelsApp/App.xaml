@@ -1,0 +1,35 @@
+﻿<Application x:Class="CoreBarrelsApp.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:CoreBarrelsApp"
+             xmlns:viewModel="clr-namespace:CoreBarrelsApp.MVVM.ViewModel"
+             xmlns:view="clr-namespace:CoreBarrelsApp.MVVM.View"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Theme/MenuButtonTheme.xaml"/>
+                <ResourceDictionary Source="Theme/DefaultButtonTheme.xaml"/>
+                <ResourceDictionary Source="Theme/TextBoxTheme.xaml"/>
+                <ResourceDictionary Source="Theme/TextBoxResultTheme.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <DataTemplate DataType="{x:Type viewModel:HomeViewModel}">
+                <view:HomeView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:KompasViewModel}">
+                <view:KompasView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:CalcViewModel}">
+                <view:CalcView/>
+            </DataTemplate>
+
+            <DataTemplate DataType="{x:Type viewModel:CalcPoreViewModel}">
+                <view:CalcPoreView/>
+            </DataTemplate>
+
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
